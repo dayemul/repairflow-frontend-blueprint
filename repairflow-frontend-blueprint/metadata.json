@@ -1,0 +1,6 @@
+{
+  "name": "FixFlow - Repair Shop Management System",
+  "description": "Complete repair shop management system with tickets, diagnosis, estimates, parts inventory, QC workflows, invoicing, and warranty tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
